@@ -196,7 +196,7 @@ When a claimant reserves a listing, it is **locked for 30 minutes**. If pickup i
 
 ## 📸 Screenshots
 
-> *Add screenshots here after building — Donor dashboard, Browse map view, Admin panel, Impact board.*
+> NA
 
 ---
 
