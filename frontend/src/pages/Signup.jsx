@@ -64,7 +64,7 @@ function Signup() {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center px-4 py-10">
       <div className="w-full max-w-sm">
         {/* App name */}
-        <h1 className="text-2xl font-semibold text-green-600 text-center mb-1">🥗 Relish</h1>
+        <h1 className="text-2xl font-semibold text-green-600 text-center mb-1">🥗 Hestia</h1>
         <p className="text-gray-500 text-sm text-center mb-8">Food redistribution, made simple.</p>
 
         <form
